@@ -1,3 +1,3 @@
 # AutomationBase
-Exporing Arquilian selenium library.
+Exporing Arquilian selenium, Jackson and Fillo libraries.
 
