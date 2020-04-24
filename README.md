@@ -1,4 +1,3 @@
 # AutomationBase
-just for learning not serious
+Exporing Arquilian selenium library.
 
-and the way to learn is by practise, I've started now
